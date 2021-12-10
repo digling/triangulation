@@ -1,102 +1,99 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-AmamiAsama,Amami Asama,toku1246,Toku-No-Shima,tkn,Eurasia,27.49,128.55,Japonic
-AmamiYamatohama,Amami Yamatohama,sout2954,Southern Amami-Oshima,ams,Eurasia,28.19,129.21,Japonic
-AmamiYoron,Amami Yoron,yoro1243,Yoron,yox,Eurasia,27.22,128.34,Japonic
-Azeri,Azeri,nort2697,North Azerbaijani,azj,Eurasia,40.98,46.47,Turkic
-Baoan,Baoan,baoa1237,Baoanic,,,35.7,103,Mongolic
-BarabaTatar,BarabaTatar,bara1408,,,,57.49,72.56,Turkic
-Bashkir,Bashkir,bash1264,Bashkir,bak,Eurasia,53.6,56.56,Turkic
-Buriat,Buriat,buri1258,Buriat,bua,Eurasia,48.77,109,Mongolic
-Chuvash,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.49,47.16,Turkic
-CodexCumanicus,CodexCumanicus,,,qwm,,51.1,71.26,Turkic
-CrimeanTatar,CrimeanTatar,crim1256,Crimean Tatar-Urum,,,45,34.08,Turkic
-Dagur,Dagur,daur1238,Dagur,dta,Eurasia,48,124,Mongolic
-Dolgan,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.11,94.29,Turkic
-Dongxian,Dongxian,dong1285,Dongxiang,sce,Eurasia,35.58,103.56,Mongolic
-EasternEvenki,Eastern Evenki,,,,,,,Tungusic
-Even,Even,even1260,Even,eve,Eurasia,70.67,130.91,Tungusic
-EvenkiKamnigan,Evenki (Khamnigan),chen1257,Borzya Khamnigan Evenki,,Eurasia,49.3,119.8,Tungusic
-Fukuoka,Fukuoka,,,jpn,,33.35,130.24,Japonic
-Gagauz,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.6,28.03,Turkic
-Gangwon,Gangwon,,,kor,,37.52,127.44,Koreanic
-Gyeonggi,Gyeonggi,seou1239,Seoul,kor,Eurasia,37.5,128,Koreanic
-Hachijo,Hachijo,hach1239,Hachijo,,Eurasia,33.06,139.47,Japonic
-Hezhe,Hezhe,sung1269,Sunggari,,Eurasia,47.93,132.84,Tungusic
-Huzhu,Huzhu,huzh1238,Huzhu,mjg,Eurasia,36.51,102.06,Mongolic
-Hwanghae,Hwanghae,hwan1238,Hwanghaedo,kor,Eurasia,38.59,126.33,Koreanic
-Japanese,Japanese,,,jpn,,35,135,Japonic
-Jeju,Jeju,jeju1234,Jejueo,kor,Eurasia,33.38,126.56,Koreanic
-Jurchen,Jurchen,jurc1239,Jurchen,juc,Eurasia,44.41,126.87,Tungusic
-Kagoshima,Kagoshima,sats1242,Satsuma-ben,jpn,Eurasia,31.36,130.33,Japonic
-Kalmyck,Kalmyck,kalm1244,Kalmyk,,Eurasia,46.21,48.03,Mongolic
-Kamnigan,Khamnigan,kham1281,Khamnigan Mongol,,Eurasia,49.29,119.8,Mongolic
-Kangjia,Kangjia,kang1281,Kangjia,kxs,Eurasia,35.04,101.25,Mongolic
-KarachayBalkar,KarachayBalkar,kara1465,Karachay-Balkar,krc,Eurasia,39.98,63.32,Turkic
-Karaim,Karaim,kara1464,Karaim,kdr,Eurasia,43.56,42.26,Turkic
-KaraKalpak,KaraKalpak,kara1467,Kara-Kalpak,kaa,Eurasia,54.55,25.11,Turkic
-Kazakh,Kazakh,kaza1248,Kazakh,kaz,Eurasia,41.87,65.77,Turkic
-KazanTatar,KazanTatar,kaza1250,,,,55,50,Turkic
-Khakas,Khakas,khak1248,Khakas,kjh,Eurasia,50.74,107.17,Turkic
-Khalaj,Khalaj,khal1270,Khalaj,kjf,Eurasia,36.53,49.58,Turkic
-Khalkha,Khalkha,halh1238,Halh Mongolian,khk,Eurasia,48.32,106.29,Mongolic
-Kirghiz,Kirghiz,kirg1245,Kirghiz,kir,Eurasia,42,74,Turkic
-Korean,Korean,,,kor,,,,Koreanic
-Koshikiislands,Koshiki islands,sats1242,Satsuma-ben,jpn,Eurasia,31.75,129.78,Japonic
-Kumamoto,Kumamoto,kuma1281,Kumamoto-ben,jpn,Eurasia,32.47,130.44,Japonic
-Kumyk,Kumyk,kumy1244,Kumyk,kum,Eurasia,43,47,Turkic
-KurUrmi,Kur-Urmi,kuro1242,Kuro-Urmi,,Eurasia,48.29,135.05,Tungusic
-LateMiddleKorean,(Late) Middle Korean,late1258,Late Middle Korean,kor,Eurasia,37.5,128,Koreanic
-Manchu,Manchu,manc1252,Manchu,mnc,Eurasia,47.31,126.56,Tungusic
-MiddleChulym,MiddleChulym,midd1324,Middle Chulym Turkic,,Eurasia,,,Turkic
-MiddleMongolianMuqaddimataladab,Middle Mongolian (Muqaddimat al-adab),,,,,47.12,102.5,Mongolic
-MiddleMongolianSecretHistory,Middle Mongolian (Secret History),,,,,47.12,102.5,Mongolic
-Minhe,Minhe,minh1238,Minhe,,Eurasia,36.2,102.51,Mongolic
-MiyakoIrabu,Miyako Irabu,irab1238,Irabu-Jima,mvi,Eurasia,24.5,125.09,Japonic
-Moghol,Moghol,mogh1245,Mogholi,mhj,Eurasia,34.25,62.28,Mongolic
-NanaiBikin,Nanai (Bikin),nana1257,Nanai,gld,Eurasia,45.2,134.4,Tungusic
-NanaiMiddleAmur,Nanai (Middle Amur),nana1257,Nanai,gld,Eurasia,50.34,137,Tungusic
-Negidal,Negidal,negi1245,Negidal,neg,Eurasia,52.97,139.21,Tungusic
-Nogai,Nogai,noga1249,Nogai,nog,Eurasia,43.59,46.66,Turkic
-NorthAltai,NorthAltai,sout2694,Southern Altai,alt,Eurasia,50.9,88.07,Turkic
-NorthernChungcheong,Northern Chungcheong,chun1247,Ch'ungch'ongdo,kor,Eurasia,36.45,127.45,Koreanic
-NorthernEvenkiTura,Northern Evenki (Tura),ilim1234,Ilimpeya,,Eurasia,64.17,100.13,Tungusic
-NorthernEvenkiTutonchany,Northern Evenki (Tutonchany),ilim1234,Ilimpeya,,Eurasia,64.13,93.47,Tungusic
-NorthernGyeongsang,Northern Gyeongsang,kyon1247,Kyongsangdo,kor,Eurasia,36.33,128.43,Koreanic
-NorthernHamgyong,Northern Hamgyong,hamg1238,Hamgyongdo,kor,Eurasia,41.47,129.46,Koreanic
-NorthernJeolla,Northern Jeolla,chol1278,Jollado,kor,Eurasia,35.49,127.09,Koreanic
-NorthernPyongan,Northern Pyongan,pyon1239,P'yong'ando,kor,Eurasia,40.06,124.24,Koreanic
-Oirat,Oirat,,,,,49.3,92.3,Mongolic
-OkinawaShuri,Okinawa Shuri,shur1243,Shuri,ryu,Eurasia,26.12,127.4,Japonic
-OkinawaYonamine,Okinawa Yonamine,kuni1268,Kunigami,xug,Eurasia,26.4,127.58,Japonic
-OldJapanese,Old Japanese,oldj1239,Old Japanese,ojp,Eurasia,47.33,102.49,Japonic
-OldTurkic,OldTurkic,oldu1238,Old Turkic,oui,Eurasia,50.32,137.85,Turkic
-Oroch,Oroch,oroc1248,Oroch,oac,Eurasia,49.36,143.13,Tungusic
-Orok,Orok,orok1265,Orok,oaa,Eurasia,,,Tungusic
-Oroqen,Oroqen,oroq1238,Oroqen,orh,Eurasia,50.63,125.02,Tungusic
-Salar,Salar,sala1264,Salar,slr,Eurasia,35.55,102.82,Turkic
-ShiraYughur,Shira-Yughur,east2337,East Yugur,yuy,Eurasia,37.99,101.76,Mongolic
-Shor,Shor,shor1247,Shor,cjs,Eurasia,52.33,88.43,Turkic
-Solon,Solon,solo1263,Solon,,Eurasia,48.17,119.49,Tungusic
-SouthAltai,SouthAltai,sout2694,Southern Altai,alt,Eurasia,50.13,86.87,Turkic
-SouthernChungcheong,Southern Chungcheong,chun1247,Ch'ungch'ongdo,kor,Eurasia,36.35,126.39,Koreanic
-SouthernEvenkiChiringda,Southern Evenki (Chiringda),hiss1234,Hissing Evenki,,Eurasia,53.3,108,Tungusic
-SouthernEvenkiVershinaTuturyBaikal,"Southern Evenki  (Vershina-Tutury, Baikal)",,,,,,,Tungusic
-SouthernGyeongsang,Southern Gyeongsang,kyon1247,Kyongsangdo,kor,Eurasia,35.15,128.15,Koreanic
-SouthernHamgyong,Southern Hamgyong,hamg1238,Hamgyongdo,kor,Eurasia,39.55,127.32,Koreanic
-SouthernJeolla,Southern Jeolla,chol1278,Jollado,kor,Eurasia,34.98,126.47,Koreanic
-SouthernPyongan,Southern Pyongan,pyon1239,P'yong'ando,kor,Eurasia,39.15,125.51,Koreanic
-StonyEvenkiPTPodkamennayaTunguska,Stony Evenki (PT = Podkamennaya Tunguska),hiss1234,Hissing Evenki,,Eurasia,61.59,94.39,Tungusic
-Tofa,Tofa,tofa1248,Tofa,,Eurasia,54.16,101.31,Turkic
-Turkish,Turkish,nucl1301,Turkish,tur,Eurasia,39.87,32.87,Turkic
-Turkmen,Turkmen,turk1304,Turkmen,tuk,Eurasia,37.09,59.18,Turkic
-Tuvan,Tuvan,tuvi1240,Tuvinian,tyv,Eurasia,51.7,94.37,Turkic
-Udihe,Udihe,udih1248,Udihe,ude,Eurasia,46.63,135.68,Tungusic
-Ulcha,Ulcha,ulch1242,Ulchaic,,,51.85,140.29,Tungusic
-Uyghur,Uyghur,uigh1240,Uighur,uig,Eurasia,43.88,87.38,Turkic
-Uzbek,Uzbek,uzbe1247,Uzbek,uzb,Eurasia,40.89,69.21,Turkic
-WestYugur,WestYugur,west2402,West Yugur,ybe,Eurasia,39.05,99.31,Turkic
-Xibe,Xibe,xibe1242,Xibe,sjo,Eurasia,43.59,81,Tungusic
-YaeyamaHatoma,Yaeyama Hatoma,hato1238,Hatoma,rys,Eurasia,24.17,123.51,Japonic
-YaeyamaIshigaki,Yaeyama Ishigaki,ishi1240,Ishigaki,rys,Eurasia,24.2,124.09,Japonic
-Yakut,Yakut,yaku1245,Sakha,sah,Eurasia,61.7,133.98,Turkic
-Yonaguni,Yonaguni,yona1241,Yonaguni,yoi,Eurasia,24.28,123,Japonic
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,InAnalysis
+AmamiAsama,Amami Asama,toku1246,Toku-No-Shima,tkn,Eurasia,27.49,128.55,Japonic,1
+AmamiYamatohama,Amami Yamatohama,sout2954,Southern Amami-Oshima,ams,Eurasia,28.19,129.21,Japonic,1
+AmamiYoron,Amami Yoron,yoro1243,Yoron,yox,Eurasia,27.22,128.34,Japonic,1
+Azeri,Azeri,nort2697,North Azerbaijani,azj,Eurasia,40.98,46.47,Turkic,1
+Baoan,Baoan,baoa1237,Baoanic,,,35.7,103,Mongolic,1
+BarabaTatar,BarabaTatar,bara1408,,,,57.49,72.56,Turkic,1
+Bashkir,Bashkir,bash1264,Bashkir,bak,Eurasia,53.6,56.56,Turkic,1
+Buriat,Buriat,buri1258,Buriat,bua,Eurasia,48.77,109,Mongolic,1
+Chuvash,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.49,47.16,Turkic,1
+CodexCumanicus,CodexCumanicus,,,qwm,,51.1,71.26,Turkic,1
+CrimeanTatar,CrimeanTatar,crim1256,Crimean Tatar-Urum,,,45,34.08,Turkic,1
+Dagur,Dagur,daur1238,Dagur,dta,Eurasia,48,124,Mongolic,1
+Dolgan,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.11,94.29,Turkic,1
+Dongxian,Dongxian,dong1285,Dongxiang,sce,Eurasia,35.58,103.56,Mongolic,1
+Even,Even,even1260,Even,eve,Eurasia,70.67,130.91,Tungusic,1
+EvenkiKamnigan,Evenki (Khamnigan),chen1257,Borzya Khamnigan Evenki,,Eurasia,49.3,119.8,Tungusic,1
+Fukuoka,Fukuoka,,,jpn,,33.35,130.24,Japonic,1
+Gagauz,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.6,28.03,Turkic,1
+Gangwon,Gangwon,,,kor,,37.52,127.44,Koreanic,1
+Gyeonggi,Gyeonggi,seou1239,Seoul,kor,Eurasia,37.5,128,Koreanic,1
+Hachijo,Hachijo,hach1239,Hachijo,,Eurasia,33.06,139.47,Japonic,1
+Hezhe,Hezhe,sung1269,Sunggari,,Eurasia,47.93,132.84,Tungusic,1
+Huzhu,Huzhu,huzh1238,Huzhu,mjg,Eurasia,36.51,102.06,Mongolic,1
+Hwanghae,Hwanghae,hwan1238,Hwanghaedo,kor,Eurasia,38.59,126.33,Koreanic,1
+Japanese,Japanese,,,jpn,,35,135,Japonic,1
+Jeju,Jeju,jeju1234,Jejueo,kor,Eurasia,33.38,126.56,Koreanic,1
+Jurchen,Jurchen,jurc1239,Jurchen,juc,Eurasia,44.41,126.87,Tungusic,1
+Kagoshima,Kagoshima,sats1242,Satsuma-ben,jpn,Eurasia,31.36,130.33,Japonic,1
+Kalmyck,Kalmyck,kalm1244,Kalmyk,,Eurasia,46.21,48.03,Mongolic,1
+Kamnigan,Khamnigan,kham1281,Khamnigan Mongol,,Eurasia,49.29,119.8,Mongolic,1
+Kangjia,Kangjia,kang1281,Kangjia,kxs,Eurasia,35.04,101.25,Mongolic,1
+KarachayBalkar,KarachayBalkar,kara1465,Karachay-Balkar,krc,Eurasia,39.98,63.32,Turkic,1
+Karaim,Karaim,kara1464,Karaim,kdr,Eurasia,43.56,42.26,Turkic,1
+KaraKalpak,KaraKalpak,kara1467,Kara-Kalpak,kaa,Eurasia,54.55,25.11,Turkic,1
+Kazakh,Kazakh,kaza1248,Kazakh,kaz,Eurasia,41.87,65.77,Turkic,1
+KazanTatar,KazanTatar,kaza1250,,,,55,50,Turkic,1
+Khakas,Khakas,khak1248,Khakas,kjh,Eurasia,50.74,107.17,Turkic,1
+Khalaj,Khalaj,khal1270,Khalaj,kjf,Eurasia,36.53,49.58,Turkic,1
+Khalkha,Khalkha,halh1238,Halh Mongolian,khk,Eurasia,48.32,106.29,Mongolic,1
+Kirghiz,Kirghiz,kirg1245,Kirghiz,kir,Eurasia,42,74,Turkic,1
+Koshikiislands,Koshiki islands,sats1242,Satsuma-ben,jpn,Eurasia,31.75,129.78,Japonic,1
+Kumamoto,Kumamoto,kuma1281,Kumamoto-ben,jpn,Eurasia,32.47,130.44,Japonic,1
+Kumyk,Kumyk,kumy1244,Kumyk,kum,Eurasia,43,47,Turkic,1
+KurUrmi,Kur-Urmi,kuro1242,Kuro-Urmi,,Eurasia,48.29,135.05,Tungusic,1
+LateMiddleKorean,(Late) Middle Korean,late1258,Late Middle Korean,kor,Eurasia,37.5,128,Koreanic,1
+Manchu,Manchu,manc1252,Manchu,mnc,Eurasia,47.31,126.56,Tungusic,1
+MiddleChulym,MiddleChulym,midd1324,Middle Chulym Turkic,,Eurasia,58.49,82.14,Turkic,1
+MiddleMongolianMuqaddimataladab,Middle Mongolian (Muqaddimat al-adab),,,,,47.12,102.5,Mongolic,1
+MiddleMongolianSecretHistory,Middle Mongolian (Secret History),,,,,47.12,102.5,Mongolic,1
+Minhe,Minhe,minh1238,Minhe,,Eurasia,36.2,102.51,Mongolic,1
+MiyakoIrabu,Miyako Irabu,irab1238,Irabu-Jima,mvi,Eurasia,24.5,125.09,Japonic,1
+Moghol,Moghol,mogh1245,Mogholi,mhj,Eurasia,34.25,62.28,Mongolic,1
+NanaiBikin,Nanai (Bikin),nana1257,Nanai,gld,Eurasia,45.2,134.4,Tungusic,1
+NanaiMiddleAmur,Nanai (Middle Amur),nana1257,Nanai,gld,Eurasia,50.34,137,Tungusic,1
+Negidal,Negidal,negi1245,Negidal,neg,Eurasia,52.97,139.21,Tungusic,1
+Nogai,Nogai,noga1249,Nogai,nog,Eurasia,43.59,46.66,Turkic,1
+NorthAltai,NorthAltai,sout2694,Southern Altai,alt,Eurasia,50.9,88.07,Turkic,1
+NorthernChungcheong,Northern Chungcheong,chun1247,Ch'ungch'ongdo,kor,Eurasia,36.45,127.45,Koreanic,1
+NorthernEvenkiTura,Northern Evenki (Tura),ilim1234,Ilimpeya,,Eurasia,64.17,100.13,Tungusic,1
+NorthernEvenkiTutonchany,Northern Evenki (Tutonchany),ilim1234,Ilimpeya,,Eurasia,64.13,93.47,Tungusic,1
+NorthernGyeongsang,Northern Gyeongsang,kyon1247,Kyongsangdo,kor,Eurasia,36.33,128.43,Koreanic,1
+NorthernHamgyong,Northern Hamgyong,hamg1238,Hamgyongdo,kor,Eurasia,41.47,129.46,Koreanic,1
+NorthernJeolla,Northern Jeolla,chol1278,Jollado,kor,Eurasia,35.49,127.09,Koreanic,1
+NorthernPyongan,Northern Pyongan,pyon1239,P'yong'ando,kor,Eurasia,40.06,124.24,Koreanic,1
+Oirat,Oirat,,,,,49.3,92.3,Mongolic,1
+OkinawaShuri,Okinawa Shuri,shur1243,Shuri,ryu,Eurasia,26.12,127.4,Japonic,1
+OkinawaYonamine,Okinawa Yonamine,kuni1268,Kunigami,xug,Eurasia,26.4,127.58,Japonic,1
+OldJapanese,Old Japanese,oldj1239,Old Japanese,ojp,Eurasia,47.33,102.49,Japonic,1
+OldTurkic,OldTurkic,oldu1238,Old Turkic,oui,Eurasia,50.32,137.85,Turkic,1
+Oroch,Oroch,oroc1248,Oroch,oac,Eurasia,49.36,143.13,Tungusic,1
+Orok,Orok,orok1265,Orok,oaa,Eurasia,,,Tungusic,1
+Oroqen,Oroqen,oroq1238,Oroqen,orh,Eurasia,50.63,125.02,Tungusic,1
+Salar,Salar,sala1264,Salar,slr,Eurasia,35.55,102.82,Turkic,1
+ShiraYughur,Shira-Yughur,east2337,East Yugur,yuy,Eurasia,37.99,101.76,Mongolic,1
+Shor,Shor,shor1247,Shor,cjs,Eurasia,52.33,88.43,Turkic,1
+Solon,Solon,solo1263,Solon,,Eurasia,48.17,119.49,Tungusic,1
+SouthAltai,SouthAltai,sout2694,Southern Altai,alt,Eurasia,50.13,86.87,Turkic,1
+SouthernChungcheong,Southern Chungcheong,chun1247,Ch'ungch'ongdo,kor,Eurasia,36.35,126.39,Koreanic,1
+SouthernEvenkiChiringda,Southern Evenki (Chiringda),hiss1234,Hissing Evenki,,Eurasia,53.3,108,Tungusic,1
+SouthernGyeongsang,Southern Gyeongsang,kyon1247,Kyongsangdo,kor,Eurasia,35.15,128.15,Koreanic,1
+SouthernHamgyong,Southern Hamgyong,hamg1238,Hamgyongdo,kor,Eurasia,39.55,127.32,Koreanic,1
+SouthernJeolla,Southern Jeolla,chol1278,Jollado,kor,Eurasia,34.98,126.47,Koreanic,1
+SouthernPyongan,Southern Pyongan,pyon1239,P'yong'ando,kor,Eurasia,39.15,125.51,Koreanic,1
+StonyEvenkiPTPodkamennayaTunguska,Stony Evenki (PT = Podkamennaya Tunguska),hiss1234,Hissing Evenki,,Eurasia,61.59,94.39,Tungusic,1
+Tofa,Tofa,tofa1248,Tofa,,Eurasia,54.16,101.31,Turkic,1
+Turkish,Turkish,nucl1301,Turkish,tur,Eurasia,39.87,32.87,Turkic,1
+Turkmen,Turkmen,turk1304,Turkmen,tuk,Eurasia,37.09,59.18,Turkic,1
+Tuvan,Tuvan,tuvi1240,Tuvinian,tyv,Eurasia,51.7,94.37,Turkic,1
+Udihe,Udihe,udih1248,Udihe,ude,Eurasia,46.63,135.68,Tungusic,1
+Ulcha,Ulcha,ulch1242,Ulchaic,,,51.85,140.29,Tungusic,1
+Uyghur,Uyghur,uigh1240,Uighur,uig,Eurasia,43.88,87.38,Turkic,1
+Uzbek,Uzbek,uzbe1247,Uzbek,uzb,Eurasia,40.89,69.21,Turkic,1
+WestYugur,WestYugur,west2402,West Yugur,ybe,Eurasia,39.05,99.31,Turkic,1
+Xibe,Xibe,xibe1242,Xibe,sjo,Eurasia,43.59,81,Tungusic,1
+YaeyamaHatoma,Yaeyama Hatoma,hato1238,Hatoma,rys,Eurasia,24.17,123.51,Japonic,1
+YaeyamaIshigaki,Yaeyama Ishigaki,ishi1240,Ishigaki,rys,Eurasia,24.2,124.09,Japonic,1
+Yakut,Yakut,yaku1245,Sakha,sah,Eurasia,61.7,133.98,Turkic,1
+Yonaguni,Yonaguni,yona1241,Yonaguni,yoi,Eurasia,24.28,123,Japonic,1

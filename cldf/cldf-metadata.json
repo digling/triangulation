@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/digling/triangulation",
             "rdf:type": "prov:Entity",
-            "dc:created": "4169233",
+            "dc:created": "d15b0dd",
             "dc:title": "Repository"
         },
         {
@@ -48,7 +48,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "robbeetsaltaic",
+    "rdf:ID": "triangulation",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -57,7 +57,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 26224,
+            "dc:extent": 25807,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,7 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 101,
+            "dc:extent": 98,
             "tableSchema": {
                 "columns": [
                     {
@@ -216,6 +216,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "InAnalysis"
                     }
                 ],
                 "primaryKey": [
@@ -258,7 +262,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 26224,
+            "dc:extent": 25807,
             "tableSchema": {
                 "columns": [
                     {

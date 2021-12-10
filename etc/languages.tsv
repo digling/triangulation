@@ -18,7 +18,7 @@ CrimeanTatar	CrimeanTatar	45	34.08	CrimeanTatar	CrimeanTatar	Turkic	CrimeanTatar
 Dagur	Dagur	48	124	Dagur	Dagur	Mongolic		daur1238	dta	
 Dolgan	Dolgan	71.11	94.29	Dolgan	Dolgan	Turkic	Dolgan	dolg1241	dlg	
 Dongxian	Dongxian	35.58	103.56	Dongxian	Dongxian	Mongolic		dong1285	sce	
-EasternEvenki				Eastern Evenki	Eastern Evenki	Tungusic				Unclear which variety is meant, can't find it in the Tungusic xls file
+EasternEvenki				Eastern Evenki		Tungusic				Unclear which variety is meant, can't find it in the Tungusic xls file
 Even	Even	70.67	130.91	Even	Even	Tungusic	Even	even1260	eve	
 EvenkiKamnigan	Evenki_Kamnigan	49.3	119.8	Evenki (Khamnigan)	Evenki (Kamnigan)	Tungusic	Evenki	chen1257		
 Fukuoka	Fukuoka	33.35	130.24	Fukuoka	Fukuoka	Japonic			jpn	
@@ -53,7 +53,7 @@ Khalaj	Khalaj	36.53	49.58	Khalaj	Khalaj	Turkic	Khalaj	khal1270	kjf
 Khalkha	Khalkha	48.32	106.29	Khalkha	Khalkha	Mongolic		halh1238	khk	
 Kirghiz	Kirghiz	42	74	Kirghiz	Kirghiz	Turkic	Kirghiz	kirg1245	kir	
 Kohama				Kohama		Japonic	Kohama	koha1246	rys	
-Korean				Korean	Korean	Koreanic	Korean		kor	if Standard Seoul Korean, same as Kyengki?
+Korean				Korean		Koreanic	Korean		kor	if Standard Seoul Korean, same as Kyengki?
 Koshikiislands	Koshiki_islands	31.75	129.78	Koshiki islands	Koshiki islands	Japonic		sats1242	jpn	same glottocode but different dialect
 Kumamoto	Kumamoto	32.47	130.44	Kumamoto	Kumamoto	Japonic		kuma1281	jpn	
 Kumyk	Kumyk	43	47	Kumyk	Kumyk	Turkic	Kumyk	kumy1244	kum	
@@ -64,7 +64,7 @@ Kyengpwuk				Kyengpwuk		Koreanic	Kyengpwuk = Kyǒngbuk = KB	kyon1247	kor	subdivi
 Kyengsang				Kyengsang		Koreanic	Kyengsang = Kyǒngsang = KS	kyon1247	kor	
 LateMiddleKorean	Late_Middle_Korean	37.5	128	(Late) Middle Korean	(Late) Middle Korean	Koreanic	Middle Korean	late1258	kor	
 Manchu	Manchu	47.31	126.56	Manchu	Manchu	Tungusic	Manchu	manc1252	mnc	
-MiddleChulym				MiddleChulym	MiddleChulym	Turkic	MiddleChulym	midd1324		
+MiddleChulym	MiddleChulym	58.49	82.14	MiddleChulym	MiddleChulym	Turkic	MiddleChulym	midd1324		
 MiddleKypchak				MiddleKypchak		Turkic	MiddleKypchak			Clauson 1972, MiddleTurkic
 MiddleMongolianMuqaddimataladab	Middle_Mongolian_Muqaddimat_al-adab	47.12	102.5	Middle Mongolian (Muqaddimat al-adab)	Middle Mongolian (Muqaddimat al-adab)	Mongolic				
 MiddleMongolianSecretHistory	Middle_Mongolian_Secret_History	47.12	102.5	Middle Mongolian (Secret History)	Middle Mongolian (Secret History)	Mongolic				
@@ -88,11 +88,11 @@ Ogami				Ōgami		Japonic	Ōgami	ogam1239	mvi
 Oirat	Oirat	49.3	92.3	Oirat	Oirat	Mongolic				unclear if it is distinct from Kalmyk
 OkinawaShuri	Okinawa_Shuri	26.12	127.4	Okinawa Shuri	Okinawa Shuri	Japonic	Shuri (Southern Okinawa) form	shur1243	ryu	
 OkinawaYonamine	Okinawa_Yonamine	26.4	127.58	Okinawa Yonamine	Okinawa Yonamine	Japonic	Yonamine (Nakijin-son, Northern Okinawa)	kuni1268	xug	not in glottolog
-Old Shuri	Old_Japanese	34.41	135.48	Old Shuri		Japonic	Old Shuri			
-OldJapanese	OldTurkic	47.33	102.49	Old Japanese	Old Japanese	Japonic	Old Japanese	oldj1239	ojp	
-OldTurkic	Oroch	50.32	137.85	OldTurkic	OldTurkic	Turkic	OldTurkic	oldu1238	oui	
-Oroch	Orok	49.36	143.13	Oroch	Oroch	Tungusic	Oroch	oroc1248	oac	
-Orok				Orok	Orok	Tungusic	Orok	orok1265	oaa	
+Old Shuri		34.41	135.48	Old Shuri		Japonic	Old Shuri			
+OldJapanese	Old_Japanese	47.33	102.49	Old Japanese	Old Japanese	Japonic	Old Japanese	oldj1239	ojp	
+OldTurkic	OldTurkic	50.32	137.85	OldTurkic	OldTurkic	Turkic	OldTurkic	oldu1238	oui	
+Oroch	Oroch	49.36	143.13	Oroch	Oroch	Tungusic	Oroch	oroc1248	oac	
+Orok	Orok			Orok	Orok	Tungusic	Orok	orok1265	oaa	
 Oroqen	Oroqen	50.63	125.02	Oroqen	Oroqen	Tungusic	Oroqen	oroq1238	orh	
 Oyrot				Oyrot		Turkic	Oyrot	alta1277		
 Proto-Japonic				Proto-Japonic		Japonic	Proto-Japonic			
@@ -111,7 +111,7 @@ Solon	Solon	48.17	119.49	Solon	Solon	Tungusic	Solon	solo1263
 SouthAltai	SouthAltai	50.13	86.87	SouthAltai	SouthAltai	Turkic		sout2694	alt	
 SouthernChungcheong	Southern_Chungcheong	36.35	126.39	Southern Chungcheong	Southern Chungcheong	Koreanic		chun1247	kor	same as Chwungcengnamto
 SouthernEvenkiChiringda	Southern_Evenki_Chiringda	53.3	108	Southern Evenki (Chiringda)	Southern Evenki (Chiringda)	Tungusic		hiss1234		
-SouthernEvenkiVershinaTuturyBaikal				Southern Evenki  (Vershina-Tutury, Baikal)	Southern Evenki  (Vershina-Tutury, Baikal)	Tungusic				unclear
+SouthernEvenkiVershinaTuturyBaikal				Southern Evenki  (Vershina-Tutury, Baikal)		Tungusic				unclear
 SouthernGyeongsang	Southern_Gyeongsang	35.15	128.15	Southern Gyeongsang	Southern Gyeongsang	Koreanic		kyon1247	kor	same as Kyengnam
 SouthernHamgyong	Southern_Hamgyong	39.55	127.32	Southern Hamgyong	Southern Hamgyong	Koreanic		hamg1238	kor	same as Hankyengnamto
 SouthernJeolla	Southern_Jeolla	34.98	126.47	Southern Jeolla	Southern Jeolla	Koreanic		chol1278	kor	same as Cennam

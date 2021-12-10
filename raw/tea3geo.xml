@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='TreeSetAnalysis' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="tea254pdcov-ucln-fbd-constrained"
+spec="Alignment">
+                    <sequence id="Sequence.0" spec="Sequence" taxon="Amami_Asama" totalcount="4" value="?"/>
+                    <sequence id="Sequence.1" spec="Sequence" taxon="Amami_Yamatohama" totalcount="4" value="?"/>
+                    <sequence id="Sequence.2" spec="Sequence" taxon="Amami_Yoron" totalcount="4" value="?"/>
+                    <sequence id="Sequence.3" spec="Sequence" taxon="Azeri" totalcount="4" value="?"/>
+                    <sequence id="Sequence.4" spec="Sequence" taxon="Baoan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.5" spec="Sequence" taxon="BarabaTatar" totalcount="4" value="?"/>
+                    <sequence id="Sequence.6" spec="Sequence" taxon="Bashkir" totalcount="4" value="?"/>
+                    <sequence id="Sequence.7" spec="Sequence" taxon="Buriat" totalcount="4" value="?"/>
+                    <sequence id="Sequence.8" spec="Sequence" taxon="Chuvash" totalcount="4" value="?"/>
+                    <sequence id="Sequence.9" spec="Sequence" taxon="CodexCumanicus" totalcount="4" value="?"/>
+                    <sequence id="Sequence.10" spec="Sequence" taxon="CrimeanTatar" totalcount="4" value="?"/>
+                    <sequence id="Sequence.11" spec="Sequence" taxon="Dagur" totalcount="4" value="?"/>
+                    <sequence id="Sequence.12" spec="Sequence" taxon="Dolgan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.13" spec="Sequence" taxon="Dongxian" totalcount="4" value="?"/>
+                    <sequence id="Sequence.14" spec="Sequence" taxon="Even" totalcount="4" value="?"/>
+                    <sequence id="Sequence.15" spec="Sequence" taxon="Evenki_Kamnigan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.16" spec="Sequence" taxon="Evenki_PT" totalcount="4" value="?"/>
+                    <sequence id="Sequence.17" spec="Sequence" taxon="Fukuoka" totalcount="4" value="?"/>
+                    <sequence id="Sequence.18" spec="Sequence" taxon="Gagauz" totalcount="4" value="?"/>
+                    <sequence id="Sequence.19" spec="Sequence" taxon="Gangwon" totalcount="4" value="?"/>
+                    <sequence id="Sequence.20" spec="Sequence" taxon="Gyeonggi" totalcount="4" value="?"/>
+                    <sequence id="Sequence.21" spec="Sequence" taxon="Hachijo" totalcount="4" value="?"/>
+                    <sequence id="Sequence.22" spec="Sequence" taxon="Hezhe" totalcount="4" value="?"/>
+                    <sequence id="Sequence.23" spec="Sequence" taxon="Huzhu" totalcount="4" value="?"/>
+                    <sequence id="Sequence.24" spec="Sequence" taxon="Hwanghae" totalcount="4" value="?"/>
+                    <sequence id="Sequence.25" spec="Sequence" taxon="Japanese" totalcount="4" value="?"/>
+                    <sequence id="Sequence.26" spec="Sequence" taxon="Jeju" totalcount="4" value="?"/>
+                    <sequence id="Sequence.27" spec="Sequence" taxon="Jurchen" totalcount="4" value="?"/>
+                    <sequence id="Sequence.28" spec="Sequence" taxon="Kagoshima" totalcount="4" value="?"/>
+                    <sequence id="Sequence.29" spec="Sequence" taxon="Kalmyck" totalcount="4" value="?"/>
+                    <sequence id="Sequence.30" spec="Sequence" taxon="Kamnigan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.31" spec="Sequence" taxon="Kangjia" totalcount="4" value="?"/>
+                    <sequence id="Sequence.32" spec="Sequence" taxon="KaraKalpak" totalcount="4" value="?"/>
+                    <sequence id="Sequence.33" spec="Sequence" taxon="KarachayBalkar" totalcount="4" value="?"/>
+                    <sequence id="Sequence.34" spec="Sequence" taxon="Karaim" totalcount="4" value="?"/>
+                    <sequence id="Sequence.35" spec="Sequence" taxon="Kazakh" totalcount="4" value="?"/>
+                    <sequence id="Sequence.36" spec="Sequence" taxon="KazanTatar" totalcount="4" value="?"/>
+                    <sequence id="Sequence.37" spec="Sequence" taxon="Khakas" totalcount="4" value="?"/>
+                    <sequence id="Sequence.38" spec="Sequence" taxon="Khalaj" totalcount="4" value="?"/>
+                    <sequence id="Sequence.39" spec="Sequence" taxon="Khalkha" totalcount="4" value="?"/>
+                    <sequence id="Sequence.40" spec="Sequence" taxon="Kirghiz" totalcount="4" value="?"/>
+                    <sequence id="Sequence.41" spec="Sequence" taxon="Koshiki_islands" totalcount="4" value="?"/>
+                    <sequence id="Sequence.42" spec="Sequence" taxon="Kumamoto" totalcount="4" value="?"/>
+                    <sequence id="Sequence.43" spec="Sequence" taxon="Kumyk" totalcount="4" value="?"/>
+                    <sequence id="Sequence.44" spec="Sequence" taxon="Kur-Urmi" totalcount="4" value="?"/>
+                    <sequence id="Sequence.45" spec="Sequence" taxon="Late_Middle_Korean" totalcount="4" value="?"/>
+                    <sequence id="Sequence.46" spec="Sequence" taxon="Manchu" totalcount="4" value="?"/>
+                    <sequence id="Sequence.47" spec="Sequence" taxon="MiddleChulym" totalcount="4" value="?"/>
+                    <sequence id="Sequence.48" spec="Sequence" taxon="Middle_Mongolian_Muqaddimat_al-adab" totalcount="4" value="?"/>
+                    <sequence id="Sequence.49" spec="Sequence" taxon="Middle_Mongolian_Secret_History" totalcount="4" value="?"/>
+                    <sequence id="Sequence.50" spec="Sequence" taxon="Minhe" totalcount="4" value="?"/>
+                    <sequence id="Sequence.51" spec="Sequence" taxon="Miyako_Irabu" totalcount="4" value="?"/>
+                    <sequence id="Sequence.52" spec="Sequence" taxon="Moghol" totalcount="4" value="?"/>
+                    <sequence id="Sequence.53" spec="Sequence" taxon="Nanai_Bikin" totalcount="4" value="?"/>
+                    <sequence id="Sequence.54" spec="Sequence" taxon="Nanai_Middle_Amur" totalcount="4" value="?"/>
+                    <sequence id="Sequence.55" spec="Sequence" taxon="Negidal" totalcount="4" value="?"/>
+                    <sequence id="Sequence.56" spec="Sequence" taxon="Nogai" totalcount="4" value="?"/>
+                    <sequence id="Sequence.57" spec="Sequence" taxon="NorthAltai" totalcount="4" value="?"/>
+                    <sequence id="Sequence.58" spec="Sequence" taxon="Northern_Chungcheong" totalcount="4" value="?"/>
+                    <sequence id="Sequence.59" spec="Sequence" taxon="Northern_Evenki_Tura" totalcount="4" value="?"/>
+                    <sequence id="Sequence.60" spec="Sequence" taxon="Northern_Evenki_Tutonchany" totalcount="4" value="?"/>
+                    <sequence id="Sequence.61" spec="Sequence" taxon="Northern_Gyeongsang" totalcount="4" value="?"/>
+                    <sequence id="Sequence.62" spec="Sequence" taxon="Northern_Hamgyong" totalcount="4" value="?"/>
+                    <sequence id="Sequence.63" spec="Sequence" taxon="Northern_Jeolla" totalcount="4" value="?"/>
+                    <sequence id="Sequence.64" spec="Sequence" taxon="Northern_Pyongan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.65" spec="Sequence" taxon="Oirat" totalcount="4" value="?"/>
+                    <sequence id="Sequence.66" spec="Sequence" taxon="Okinawa_Shuri" totalcount="4" value="?"/>
+                    <sequence id="Sequence.67" spec="Sequence" taxon="Okinawa_Yonamine" totalcount="4" value="?"/>
+                    <sequence id="Sequence.68" spec="Sequence" taxon="OldTurkic" totalcount="4" value="?"/>
+                    <sequence id="Sequence.69" spec="Sequence" taxon="Old_Japanese" totalcount="4" value="?"/>
+                    <sequence id="Sequence.70" spec="Sequence" taxon="Oroch" totalcount="4" value="?"/>
+                    <sequence id="Sequence.71" spec="Sequence" taxon="Orok" totalcount="4" value="?"/>
+                    <sequence id="Sequence.72" spec="Sequence" taxon="Oroqen" totalcount="4" value="?"/>
+                    <sequence id="Sequence.73" spec="Sequence" taxon="Salar" totalcount="4" value="?"/>
+                    <sequence id="Sequence.74" spec="Sequence" taxon="Shira-Yughur" totalcount="4" value="?"/>
+                    <sequence id="Sequence.75" spec="Sequence" taxon="Shor" totalcount="4" value="?"/>
+                    <sequence id="Sequence.76" spec="Sequence" taxon="Solon" totalcount="4" value="?"/>
+                    <sequence id="Sequence.77" spec="Sequence" taxon="SouthAltai" totalcount="4" value="?"/>
+                    <sequence id="Sequence.78" spec="Sequence" taxon="Southern_Chungcheong" totalcount="4" value="?"/>
+                    <sequence id="Sequence.79" spec="Sequence" taxon="Southern_Evenki_Chiringda" totalcount="4" value="?"/>
+                    <sequence id="Sequence.80" spec="Sequence" taxon="Southern_Gyeongsang" totalcount="4" value="?"/>
+                    <sequence id="Sequence.81" spec="Sequence" taxon="Southern_Hamgyong" totalcount="4" value="?"/>
+                    <sequence id="Sequence.82" spec="Sequence" taxon="Southern_Jeolla" totalcount="4" value="?"/>
+                    <sequence id="Sequence.83" spec="Sequence" taxon="Southern_Pyongan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.84" spec="Sequence" taxon="Tofa" totalcount="4" value="?"/>
+                    <sequence id="Sequence.85" spec="Sequence" taxon="Turkish" totalcount="4" value="?"/>
+                    <sequence id="Sequence.86" spec="Sequence" taxon="Turkmen" totalcount="4" value="?"/>
+                    <sequence id="Sequence.87" spec="Sequence" taxon="Tuvan" totalcount="4" value="?"/>
+                    <sequence id="Sequence.88" spec="Sequence" taxon="Udihe" totalcount="4" value="?"/>
+                    <sequence id="Sequence.89" spec="Sequence" taxon="Ulcha" totalcount="4" value="?"/>
+                    <sequence id="Sequence.90" spec="Sequence" taxon="Uyghur" totalcount="4" value="?"/>
+                    <sequence id="Sequence.91" spec="Sequence" taxon="Uzbek" totalcount="4" value="?"/>
+                    <sequence id="Sequence.92" spec="Sequence" taxon="WestYugur" totalcount="4" value="?"/>
+                    <sequence id="Sequence.93" spec="Sequence" taxon="Xibe" totalcount="4" value="?"/>
+                    <sequence id="Sequence.94" spec="Sequence" taxon="Yaeyama_Hatoma" totalcount="4" value="?"/>
+                    <sequence id="Sequence.95" spec="Sequence" taxon="Yaeyama_Ishigaki" totalcount="4" value="?"/>
+                    <sequence id="Sequence.96" spec="Sequence" taxon="Yakut" totalcount="4" value="?"/>
+                    <sequence id="Sequence.97" spec="Sequence" taxon="Yonaguni" totalcount="4" value="?"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="1000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <stateNode id="treeIndex.t:tree" spec="parameter.IntegerParameter" lower="0" upper="1">0</stateNode>
+        <stateNode id="Tree.t:tree" spec="beast.evolution.tree.IndexedTreeFromSet" index="@treeIndex.t:tree" treeSetFile="/Users/remco/data/beast/global/traneurasia/2020/combined/tea254pdcov-ucln-fbd-constrained.trees">
+            <taxonset id="taxonset.tea254pdcov-ucln-fbd-constrained" spec="TaxonSet">
+                <taxon id="Amami_Asama" spec="Taxon"/>
+                <taxon id="Amami_Yamatohama" spec="Taxon"/>
+                <taxon id="Amami_Yoron" spec="Taxon"/>
+                <taxon id="Azeri" spec="Taxon"/>
+                <taxon id="Baoan" spec="Taxon"/>
+                <taxon id="BarabaTatar" spec="Taxon"/>
+                <taxon id="Bashkir" spec="Taxon"/>
+                <taxon id="Buriat" spec="Taxon"/>
+                <taxon id="Chuvash" spec="Taxon"/>
+                <taxon id="CodexCumanicus" spec="Taxon"/>
+                <taxon id="CrimeanTatar" spec="Taxon"/>
+                <taxon id="Dagur" spec="Taxon"/>
+                <taxon id="Dolgan" spec="Taxon"/>
+                <taxon id="Dongxian" spec="Taxon"/>
+                <taxon id="Even" spec="Taxon"/>
+                <taxon id="Evenki_Kamnigan" spec="Taxon"/>
+                <taxon id="Evenki_PT" spec="Taxon"/>
+                <taxon id="Fukuoka" spec="Taxon"/>
+                <taxon id="Gagauz" spec="Taxon"/>
+                <taxon id="Gangwon" spec="Taxon"/>
+                <taxon id="Gyeonggi" spec="Taxon"/>
+                <taxon id="Hachijo" spec="Taxon"/>
+                <taxon id="Hezhe" spec="Taxon"/>
+                <taxon id="Huzhu" spec="Taxon"/>
+                <taxon id="Hwanghae" spec="Taxon"/>
+                <taxon id="Japanese" spec="Taxon"/>
+                <taxon id="Jeju" spec="Taxon"/>
+                <taxon id="Jurchen" spec="Taxon"/>
+                <taxon id="Kagoshima" spec="Taxon"/>
+                <taxon id="Kalmyck" spec="Taxon"/>
+                <taxon id="Kamnigan" spec="Taxon"/>
+                <taxon id="Kangjia" spec="Taxon"/>
+                <taxon id="KaraKalpak" spec="Taxon"/>
+                <taxon id="KarachayBalkar" spec="Taxon"/>
+                <taxon id="Karaim" spec="Taxon"/>
+                <taxon id="Kazakh" spec="Taxon"/>
+                <taxon id="KazanTatar" spec="Taxon"/>
+                <taxon id="Khakas" spec="Taxon"/>
+                <taxon id="Khalaj" spec="Taxon"/>
+                <taxon id="Khalkha" spec="Taxon"/>
+                <taxon id="Kirghiz" spec="Taxon"/>
+                <taxon id="Koshiki_islands" spec="Taxon"/>
+                <taxon id="Kumamoto" spec="Taxon"/>
+                <taxon id="Kumyk" spec="Taxon"/>
+                <taxon id="Kur-Urmi" spec="Taxon"/>
+                <taxon id="Late_Middle_Korean" spec="Taxon"/>
+                <taxon id="Manchu" spec="Taxon"/>
+                <taxon id="MiddleChulym" spec="Taxon"/>
+                <taxon id="Middle_Mongolian_Muqaddimat_al-adab" spec="Taxon"/>
+                <taxon id="Middle_Mongolian_Secret_History" spec="Taxon"/>
+                <taxon id="Minhe" spec="Taxon"/>
+                <taxon id="Miyako_Irabu" spec="Taxon"/>
+                <taxon id="Moghol" spec="Taxon"/>
+                <taxon id="Nanai_Bikin" spec="Taxon"/>
+                <taxon id="Nanai_Middle_Amur" spec="Taxon"/>
+                <taxon id="Negidal" spec="Taxon"/>
+                <taxon id="Nogai" spec="Taxon"/>
+                <taxon id="NorthAltai" spec="Taxon"/>
+                <taxon id="Northern_Chungcheong" spec="Taxon"/>
+                <taxon id="Northern_Evenki_Tura" spec="Taxon"/>
+                <taxon id="Northern_Evenki_Tutonchany" spec="Taxon"/>
+                <taxon id="Northern_Gyeongsang" spec="Taxon"/>
+                <taxon id="Northern_Hamgyong" spec="Taxon"/>
+                <taxon id="Northern_Jeolla" spec="Taxon"/>
+                <taxon id="Northern_Pyongan" spec="Taxon"/>
+                <taxon id="Oirat" spec="Taxon"/>
+                <taxon id="Okinawa_Shuri" spec="Taxon"/>
+                <taxon id="Okinawa_Yonamine" spec="Taxon"/>
+                <taxon id="OldTurkic" spec="Taxon"/>
+                <taxon id="Old_Japanese" spec="Taxon"/>
+                <taxon id="Oroch" spec="Taxon"/>
+                <taxon id="Orok" spec="Taxon"/>
+                <taxon id="Oroqen" spec="Taxon"/>
+                <taxon id="Salar" spec="Taxon"/>
+                <taxon id="Shira-Yughur" spec="Taxon"/>
+                <taxon id="Shor" spec="Taxon"/>
+                <taxon id="Solon" spec="Taxon"/>
+                <taxon id="SouthAltai" spec="Taxon"/>
+                <taxon id="Southern_Chungcheong" spec="Taxon"/>
+                <taxon id="Southern_Evenki_Chiringda" spec="Taxon"/>
+                <taxon id="Southern_Gyeongsang" spec="Taxon"/>
+                <taxon id="Southern_Hamgyong" spec="Taxon"/>
+                <taxon id="Southern_Jeolla" spec="Taxon"/>
+                <taxon id="Southern_Pyongan" spec="Taxon"/>
+                <taxon id="Tofa" spec="Taxon"/>
+                <taxon id="Turkish" spec="Taxon"/>
+                <taxon id="Turkmen" spec="Taxon"/>
+                <taxon id="Tuvan" spec="Taxon"/>
+                <taxon id="Udihe" spec="Taxon"/>
+                <taxon id="Ulcha" spec="Taxon"/>
+                <taxon id="Uyghur" spec="Taxon"/>
+                <taxon id="Uzbek" spec="Taxon"/>
+                <taxon id="WestYugur" spec="Taxon"/>
+                <taxon id="Xibe" spec="Taxon"/>
+                <taxon id="Yaeyama_Hatoma" spec="Taxon"/>
+                <taxon id="Yaeyama_Ishigaki" spec="Taxon"/>
+                <taxon id="Yakut" spec="Taxon"/>
+                <taxon id="Yonaguni" spec="Taxon"/>
+            </taxonset>
+        </stateNode>
+        <parameter id="ucldMean.c:geo" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:geo" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:geo" spec="parameter.IntegerParameter" dimension="194">1</stateNode>
+    </state>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="FixedTreeModel.t:tree" spec="beast.evolution.tree.FixedTreeDistribution" tree="@Tree.t:tree"/>
+            <prior id="MeanRatePrior.c:geo" name="distribution" x="@ucldMean.c:geo">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="alpha">0.001</parameter>
+                    <parameter id="RealParameter.8" spec="parameter.RealParameter" estimate="false" name="beta">1000.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="ucldStdevPrior.c:geo" name="distribution" x="@ucldStdev.c:geo">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.tea254pdcov-ucln-fbd-constrained" spec="FixedTreeLikelihood" tree="@Tree.t:tree">
+                <data idref="tea254pdcov-ucln-fbd-constrained"/>
+                <siteModel id="FixedSiteModel.s:tea254pdcov-ucln-fbd-constrained" spec="FixedSiteModel">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" estimate="false" lower="0.0" name="mutationRate" upper="1.0">1.0</parameter>
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="shape" upper="0.0">1.0</parameter>
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" lower="0.0" name="proportionInvariant" upper="0.0">0.0</parameter>
+                </siteModel>
+                <branchRateModel id="FixedClock.c:tea254pdcov-ucln-fbd-constrained" spec="beast.evolution.branchratemodel.FixedClockModel">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" name="clock.rate">1.0</parameter>
+                </branchRateModel>
+            </distribution>
+            <distribution id="slocationtreeLikelihood.geo" spec="sphericalGeo.ApproxMultivariateTraitLikelihood" tree="@Tree.t:tree">
+                <data
+id="geo"
+spec="sphericalGeo.AlignmentFromTraitMap">
+                    <traitMap id="traitmap.s:geo" spec="sphericalGeo.TreeTraitMap" initByMean="true" randomizelower="-90 -180" randomizeupper="90 180" traitName="location" tree="@Tree.t:tree">
+                        <parameter id="location.s:geo" spec="sphericalGeo.LocationParameter" dimension="390" minordimension="2">0.0 0.0</parameter>
+Amami_Asama = 27.49 128.55,
+Amami_Yamatohama = 28.19 129.21,
+Amami_Yoron = 27.22 128.34,
+Azeri = 40.98 46.47,
+Baoan = 35.7 103,
+BarabaTatar = 57.49 72.56,
+Bashkir = 53.6 56.56,
+Buriat = 48.77 109,
+Chuvash = 55.49 47.16,
+CodexCumanicus = 51.1 71.26,
+CrimeanTatar = 45 34.08,
+Dagur = 48 124,
+Dolgan = 71.11 94.29,
+Dongxian = 35.58 103.56,
+Even = 70.67 130.91,
+Evenki_Kamnigan = 49.3 119.8,
+Evenki_PT = 61.59 94.39,
+Fukuoka = 33.35 130.24,
+Gagauz = 44.6 28.03,
+Gangwon = 37.52 127.44,
+Gyeonggi = 37.5 128,
+Hachijo = 33.06 139.47,
+Hezhe = 47.93 132.84,
+Huzhu = 36.51 102.06,
+Hwanghae = 38.59 126.33,
+Japanese = 35 135,
+Jeju = 33.38 126.56,
+Jurchen = 44.41 126.87,
+Kagoshima = 31.36 130.33,
+Kalmyck = 46.21 48.03,
+Kamnigan = 49.29 119.8,
+Kangjia = 35.04 101.25,
+KarachayBalkar = 39.98 63.32,
+Karaim = 43.56 42.26,
+KaraKalpak = 54.55 25.11,
+Kazakh = 41.87 65.77,
+KazanTatar = 55 50,
+Khakas = 50.74 107.17,
+Khalaj = 36.53 49.58,
+Khalkha = 48.32 106.29,
+Kirghiz = 42 74,
+Koshiki_islands = 31.75 129.78,
+Kumamoto = 32.47 130.44,
+Kumyk = 43 47,
+Kur-Urmi = 48.29 135.05,
+Late_Middle_Korean = 37.5 128,
+Manchu = 47.31 126.56,
+Middle_Mongolian_Muqaddimat_al-adab = 47.12 102.5,
+Middle_Mongolian_Secret_History = 47.12 102.5,
+MiddleChulym = 58.49 82.14,
+Minhe = 36.2 102.51,
+Miyako_Irabu = 24.5 125.09,
+Moghol = 34.25 62.28,
+Nanai_Bikin = 45.2 134.4,
+Nanai_Middle_Amur = 50.34 137,
+Negidal = 52.97 139.21,
+Nogai = 43.59 46.66,
+NorthAltai = 50.9 88.07,
+Northern_Chungcheong = 36.45 127.45,
+Northern_Evenki_Tura = 64.17 100.13,
+Northern_Evenki_Tutonchany = 64.13 93.47,
+Northern_Gyeongsang = 36.33 128.43,
+Northern_Hamgyong = 41.47 129.46,
+Northern_Jeolla = 35.49 127.09,
+Northern_Pyongan = 40.06 124.24,
+Oirat = 49.3 92.3,
+Okinawa_Shuri = 26.12 127.4,
+Okinawa_Yonamine = 26.4 127.58,
+Old_Japanese = 34.41 135.48,
+OldTurkic = 47.33 102.49,
+Oroch = 50.32 137.85,
+Orok = 49.36 143.13,
+Oroqen = 50.63 125.02,
+Salar = 35.55 102.82,
+Shira-Yughur = 37.99 101.76,
+Shor = 52.33 88.43,
+Solon = 48.17 119.49,
+SouthAltai = 50.13 86.87,
+Southern_Chungcheong = 36.35 126.39,
+Southern_Evenki_Chiringda = 53.3 108,
+Southern_Gyeongsang = 35.15 128.15,
+Southern_Hamgyong = 39.55 127.32,
+Southern_Jeolla = 34.98 126.47,
+Southern_Pyongan = 39.15 125.51,
+Tofa = 54.16 101.31,
+Turkish = 39.87 32.87,
+Turkmen = 37.09 59.18,
+Tuvan = 51.7 94.37,
+Udihe = 46.63 135.68,
+Ulcha = 51.85 140.29,
+Uyghur = 43.88 87.38,
+Uzbek = 40.89 69.21,
+WestYugur = 39.05 99.31,
+Xibe = 43.59 81,
+Yaeyama_Hatoma = 24.17 123.51,
+Yaeyama_Ishigaki = 24.2 124.09,
+Yakut = 61.7 133.98,
+Yonaguni = 24.28 123
+
+                     </traitMap>
+                    <userDataType id="LocationDataType.0" spec="sphericalGeo.LocationDataType"/>
+                </data>
+                <siteModel id="geoContSiteModel.s:geo" spec="SiteModel">
+                    <substModel id="sdiffusionModel.s:geo" spec="sphericalGeo.SphericalDiffusionModel" fast="true">
+                        <parameter id="sprecision.s:geo" spec="parameter.RealParameter" lower="0.0" name="precision">100.0</parameter>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:geo" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:geo" rateCategories="@rateCategories.c:geo" tree="@Tree.t:tree">
+                    <LogNormal id="LogNormalDistributionModel.c:geo" S="@ucldStdev.c:geo" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="treeIndexUniform" spec="UniformGibbsOperator" parameter="@treeIndex.t:tree" weight="3.0"/>
+
+    <operator id="ucldMeanScaler.c:geo" spec="ScaleOperator" parameter="@ucldMean.c:geo" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:geo" spec="ScaleOperator" parameter="@ucldStdev.c:geo" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:geo" spec="IntRandomWalkOperator" parameter="@rateCategories.c:geo" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:geo" spec="SwapOperator" intparameter="@rateCategories.c:geo" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:geo" spec="UniformOperator" parameter="@rateCategories.c:geo" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:geo" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:geo"/>
+        <!--down idref="Tree.t:tree"/-->
+    </operator>
+
+    <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="10000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.tea254pdcov-ucln-fbd-constrained"/>
+        <log idref="slocationtreeLikelihood.geo"/>
+        <log idref="sprecision.s:geo"/>
+        <log idref="ucldMean.c:geo"/>
+        <log idref="ucldStdev.c:geo"/>
+        <log id="rate.c:geo" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:geo" tree="@Tree.t:tree"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="100000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:tree" spec="Logger" fileName="$(filebase).trees" logEvery="10000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:geo" tree="@Tree.t:tree">
+            <metadata id="locationsgeo" spec="sphericalGeo.TraitFunction" likelihood="@slocationtreeLikelihood.geo">0.0</metadata>
+        </log>
+    </logger>
+
+    <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+
+</run>
+
+</beast>
