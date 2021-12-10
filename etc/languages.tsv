@@ -1,0 +1,134 @@
+ID	IDInXML	Latitude	Longitude	Name	NameInSheet	Family	NameInSheets	Glottocode	ISO639P3code	Note
+AmamiAsama	Amami_Asama	27.49	128.55	Amami Asama	Amami Asama	Japonic	Asama (Tokunoshima)	toku1246	tkn	not in glottolog
+AmamiYamatohama	Amami_Yamatohama	28.19	129.21	Amami Yamatohama	Amami Yamatohama	Japonic	Yamatohama	sout2954	ams	not in glottolog
+AmamiYoron	Amami_Yoron	27.22	128.34	Amami Yoron	Amami Yoron	Japonic	Mugiya-higashi (Yoron Island)	yoro1243	yox	
+Azeri	Azeri	40.98	46.47	Azeri	Azeri	Turkic	Azeri	nort2697	azj	
+Baoan	Baoan	35.7	103	Baoan	Baoan	Mongolic		baoa1237		
+BarabaTatar	BarabaTatar	57.49	72.56	BarabaTatar	BarabaTatar	Turkic		bara1408		
+Bashkir	Bashkir	53.6	56.56	Bashkir	Bashkir	Turkic	Bashkir	bash1264	bak	
+Buriat	Buriat	48.77	109	Buriat	Buriat	Mongolic		buri1258	bua	
+Cennam				Cennam		Koreanic	Cennam  = Chǒnnam = JN	chol1278	kor	same glottocode but different dialect
+Cenpwuk				Cenpwuk		Koreanic	Cenpwuk  = Chǒnbuk = JB	chol1278	kor	same glottocode but different dialect
+Ceycwu				Ceycwu		Koreanic	Ceycwu =  Cheju= JJ	jeju1234	jje	
+Chuvash	Chuvash	55.49	47.16	Chuvash	Chuvash	Turkic	Chuvash	chuv1255	chv	
+Chwungcengnamto				Chwungcengnamto		Koreanic	Chwungcengnamto  = Ch’ungchǒngnamdo = CN	chun1247	kor	same glottocode but different dialect
+Chwungpwuk				Chwungpwuk		Koreanic	Chwungpwuk =  Ch’ungbuk  = CB	chun1247	kor	same glottocode but different dialect
+CodexCumanicus	CodexCumanicus	51.1	71.26	CodexCumanicus	CodexCumanicus	Turkic	Cuman?		qwm	
+CrimeanTatar	CrimeanTatar	45	34.08	CrimeanTatar	CrimeanTatar	Turkic	CrimeanTatar	crim1256		
+Dagur	Dagur	48	124	Dagur	Dagur	Mongolic		daur1238	dta	
+Dolgan	Dolgan	71.11	94.29	Dolgan	Dolgan	Turkic	Dolgan	dolg1241	dlg	
+Dongxian	Dongxian	35.58	103.56	Dongxian	Dongxian	Mongolic		dong1285	sce	
+EasternEvenki				Eastern Evenki	Eastern Evenki	Tungusic				Unclear which variety is meant, can't find it in the Tungusic xls file
+Even	Even	70.67	130.91	Even	Even	Tungusic	Even	even1260	eve	
+EvenkiKamnigan	Evenki_Kamnigan	49.3	119.8	Evenki (Khamnigan)	Evenki (Kamnigan)	Tungusic	Evenki	chen1257		
+Fukuoka	Fukuoka	33.35	130.24	Fukuoka	Fukuoka	Japonic			jpn	
+Gagauz	Gagauz	44.6	28.03	Gagauz	Gagauz	Turkic	Gagauz	gaga1249	gag	
+Gangwon	Gangwon	37.52	127.44	Gangwon	Gangwon	Koreanic			kor	same as Kangwento
+Gyeonggi	Gyeonggi	37.5	128	Gyeonggi	Gyeonggi	Koreanic		seou1239	kor	same as Kyengki
+Hachijo	Hachijo	33.06	139.47	Hachijo	Hachijo	Japonic		hach1239		
+Hamkyengnamto				Hamkyengnamto		Koreanic	Hamkyengnamto = Hamgyŏngnamdo = HN	hamg1238	kor	same glottocode but different dialect
+Hamkyengpukto				Hamkyengpukto		Koreanic	Hamkyengpukto = Hamgyŏngbukdo = HB	hamg1238	kor	same glottocode but different dialect
+Hateruma				Hateruma		Japonic	Hateruma	hate1238	rys	
+Hezhe	Hezhe	47.93	132.84	Hezhe	Hezhe	Tungusic		sung1269		
+Hirara				Hirara		Japonic	Hirara	miya1260	mvi	not in glottolog
+Huzhu	Huzhu	36.51	102.06	Huzhu	Huzhu	Mongolic		huzh1238	mjg	
+Hwanghae	Hwanghae	38.59	126.33	Hwanghae	Hwanghae	Koreanic		hwan1238	kor	
+Ikema				Ikema		Japonic	Ikema	ikem1235	mvi	
+Japanese	Japanese	35	135	Japanese	Japanese	Japonic			jpn	
+Jeju	Jeju	33.38	126.56	Jeju	Jeju	Koreanic		jeju1234	kor	same as Ceycwu
+Jurchen	Jurchen	44.41	126.87	Jurchen	Jurchen	Tungusic	Jurchen	jurc1239	juc	
+Kagoshima	Kagoshima	31.36	130.33	Kagoshima	Kagoshima	Japonic		sats1242	jpn	same glottocode but different dialect
+Kalmyck	Kalmyck	46.21	48.03	Kalmyck	Kalmyck	Mongolic		kalm1244		
+Kamnigan	Kamnigan	49.29	119.8	Khamnigan	Kamnigan	Mongolic		kham1281		
+Kangjia	Kangjia	35.04	101.25	Kangjia	Kangjia	Mongolic		kang1281	kxs	
+Kangwento				Kangwento		Koreanic	Kangwento  = Kangwǒndo = KW		kor	not in glottolog
+KarachayBalkar	KarachayBalkar	39.98	63.32	KarachayBalkar	KarachayBalkar	Turkic	KarachayBalkar	kara1465	krc	
+Karaim	Karaim	43.56	42.26	Karaim	Karaim	Turkic	Karaim	kara1464	kdr	
+KaraKalpak	KaraKalpak	54.55	25.11	KaraKalpak	KaraKalpak	Turkic	KaraKalpak	kara1467	kaa	
+Karakhanid				Karakhanid		Turkic	Karakhanid		xqr	
+Kazakh	Kazakh	41.87	65.77	Kazakh	Kazakh	Turkic	Kazakh	kaza1248	kaz	
+KazanTatar	KazanTatar	55	50	KazanTatar	KazanTatar	Turkic	KazanTatar	kaza1250		
+Khakas	Khakas	50.74	107.17	Khakas	Khakas	Turkic	Khakas	khak1248	kjh	
+Khalaj	Khalaj	36.53	49.58	Khalaj	Khalaj	Turkic	Khalaj	khal1270	kjf	
+Khalkha	Khalkha	48.32	106.29	Khalkha	Khalkha	Mongolic		halh1238	khk	
+Kirghiz	Kirghiz	42	74	Kirghiz	Kirghiz	Turkic	Kirghiz	kirg1245	kir	
+Kohama				Kohama		Japonic	Kohama	koha1246	rys	
+Korean				Korean	Korean	Koreanic	Korean		kor	if Standard Seoul Korean, same as Kyengki?
+Koshikiislands	Koshiki_islands	31.75	129.78	Koshiki islands	Koshiki islands	Japonic		sats1242	jpn	same glottocode but different dialect
+Kumamoto	Kumamoto	32.47	130.44	Kumamoto	Kumamoto	Japonic		kuma1281	jpn	
+Kumyk	Kumyk	43	47	Kumyk	Kumyk	Turkic	Kumyk	kumy1244	kum	
+KurUrmi	Kur-Urmi	48.29	135.05	Kur-Urmi	Kur-Urmi	Tungusic		kuro1242		
+Kyengki				Kyengki		Koreanic	Kyengki = Kyǒnggi = KG	seou1239	kor	
+Kyengnam				Kyengnam		Koreanic	Kyengnam = Kyǒngnam =KN	kyon1247	kor	subdivision of Kyengsang
+Kyengpwuk				Kyengpwuk		Koreanic	Kyengpwuk = Kyǒngbuk = KB	kyon1247	kor	subdivision of Kyengsang
+Kyengsang				Kyengsang		Koreanic	Kyengsang = Kyǒngsang = KS	kyon1247	kor	
+LateMiddleKorean	Late_Middle_Korean	37.5	128	(Late) Middle Korean	(Late) Middle Korean	Koreanic	Middle Korean	late1258	kor	
+Manchu	Manchu	47.31	126.56	Manchu	Manchu	Tungusic	Manchu	manc1252	mnc	
+MiddleChulym				MiddleChulym	MiddleChulym	Turkic	MiddleChulym	midd1324		
+MiddleKypchak				MiddleKypchak		Turkic	MiddleKypchak			Clauson 1972, MiddleTurkic
+MiddleMongolianMuqaddimataladab	Middle_Mongolian_Muqaddimat_al-adab	47.12	102.5	Middle Mongolian (Muqaddimat al-adab)	Middle Mongolian (Muqaddimat al-adab)	Mongolic				
+MiddleMongolianSecretHistory	Middle_Mongolian_Secret_History	47.12	102.5	Middle Mongolian (Secret History)	Middle Mongolian (Secret History)	Mongolic				
+MiddleTurkic	MiddleChulym	58.49	82.14	MiddleTurkic		Turkic	MiddleTurkic			Clauson 1972, MiddleTurkic
+Minhe	Minhe	36.2	102.51	Minhe	Minhe	Mongolic		minh1238		
+MiyakoIrabu	Miyako_Irabu	24.5	125.09	Miyako Irabu	Miyako Irabu	Japonic		irab1238	mvi	
+Moghol	Moghol	34.25	62.28	Moghol	Moghol	Mongolic		mogh1245	mhj	
+NanaiBikin	Nanai_Bikin	45.2	134.4	Nanai (Bikin)	Nanai (Bikin)	Tungusic	Nanai	nana1257	gld	
+NanaiMiddleAmur	Nanai_Middle_Amur	50.34	137	Nanai (Middle Amur)	Nanai (Middle Amur)	Tungusic		nana1257	gld	
+Negidal	Negidal	52.97	139.21	Negidal	Negidal	Tungusic	Negidal	negi1245	neg	
+Nogai	Nogai	43.59	46.66	Nogai	Nogai	Turkic	Nogai	noga1249	nog	
+NorthAltai	NorthAltai	50.9	88.07	NorthAltai	NorthAltai	Turkic	NorthAltai	sout2694	alt	
+NorthernChungcheong	Northern_Chungcheong	36.45	127.45	Northern Chungcheong	Northern Chungcheong	Koreanic		chun1247	kor	same as Chwungpwuk
+NorthernEvenkiTura	Northern_Evenki_Tura	64.17	100.13	Northern Evenki (Tura)	Northern Evenki (Tura)	Tungusic		ilim1234		
+NorthernEvenkiTutonchany	Northern_Evenki_Tutonchany	64.13	93.47	Northern Evenki (Tutonchany)	Northern Evenki (Tutonchany)	Tungusic		ilim1234		
+NorthernGyeongsang	Northern_Gyeongsang	36.33	128.43	Northern Gyeongsang	Northern Gyeongsang	Koreanic		kyon1247	kor	same as Kyengpwuk
+NorthernHamgyong	Northern_Hamgyong	41.47	129.46	Northern Hamgyong	Northern Hamgyong	Koreanic		hamg1238	kor	same as Hankyengpukto
+NorthernJeolla	Northern_Jeolla	35.49	127.09	Northern Jeolla	Northern Jeolla	Koreanic		chol1278	kor	same as Cenpwuk
+NorthernPyongan	Northern_Pyongan	40.06	124.24	Northern Pyongan	Northern Pyongan	Koreanic		pyon1239	kor	same as Pyenganpukto
+Ogami				Ōgami		Japonic	Ōgami	ogam1239	mvi	
+Oirat	Oirat	49.3	92.3	Oirat	Oirat	Mongolic				unclear if it is distinct from Kalmyk
+OkinawaShuri	Okinawa_Shuri	26.12	127.4	Okinawa Shuri	Okinawa Shuri	Japonic	Shuri (Southern Okinawa) form	shur1243	ryu	
+OkinawaYonamine	Okinawa_Yonamine	26.4	127.58	Okinawa Yonamine	Okinawa Yonamine	Japonic	Yonamine (Nakijin-son, Northern Okinawa)	kuni1268	xug	not in glottolog
+Old Shuri	Old_Japanese	34.41	135.48	Old Shuri		Japonic	Old Shuri			
+OldJapanese	OldTurkic	47.33	102.49	Old Japanese	Old Japanese	Japonic	Old Japanese	oldj1239	ojp	
+OldTurkic	Oroch	50.32	137.85	OldTurkic	OldTurkic	Turkic	OldTurkic	oldu1238	oui	
+Oroch	Orok	49.36	143.13	Oroch	Oroch	Tungusic	Oroch	oroc1248	oac	
+Orok				Orok	Orok	Tungusic	Orok	orok1265	oaa	
+Oroqen	Oroqen	50.63	125.02	Oroqen	Oroqen	Tungusic	Oroqen	oroq1238	orh	
+Oyrot				Oyrot		Turkic	Oyrot	alta1277		
+Proto-Japonic				Proto-Japonic		Japonic	Proto-Japonic			
+Proto-MY				Proto-MY		Japonic	Proto-MY			
+Proto-RK				Proto-RK		Japonic	Proto-RK			
+Proto-SK				Proto-SK		Japonic	Proto-SK			
+Proto-Turkic				Proto-Turkic		Turkic	Proto-Turkic			
+Proto-YM				Proto-YM		Japonic	Proto-YM			
+Pyengannamto				Pyengannamto		Koreanic	Pyengannamto = P’yŏngannamdo = PN	pyon1239	kor	same glottocode but different dialect
+Pyenganpukto				Pyenganpukto		Koreanic	Pyenganpukto = P’yŏnganbukdo = PB	pyon1239	kor	same glottocode but different dialect
+Salar	Salar	35.55	102.82	Salar	Salar	Turkic	Salar	sala1264	slr	
+SarygYugur				SarygYugur		Turkic	SarygYugur	west2402	ybe	
+ShiraYughur	Shira-Yughur	37.99	101.76	Shira-Yughur	Shira-Yughur	Mongolic		east2337	yuy	
+Shor	Shor	52.33	88.43	Shor	Shor	Turkic	Shor	shor1247	cjs	
+Solon	Solon	48.17	119.49	Solon	Solon	Tungusic	Solon	solo1263		
+SouthAltai	SouthAltai	50.13	86.87	SouthAltai	SouthAltai	Turkic		sout2694	alt	
+SouthernChungcheong	Southern_Chungcheong	36.35	126.39	Southern Chungcheong	Southern Chungcheong	Koreanic		chun1247	kor	same as Chwungcengnamto
+SouthernEvenkiChiringda	Southern_Evenki_Chiringda	53.3	108	Southern Evenki (Chiringda)	Southern Evenki (Chiringda)	Tungusic		hiss1234		
+SouthernEvenkiVershinaTuturyBaikal				Southern Evenki  (Vershina-Tutury, Baikal)	Southern Evenki  (Vershina-Tutury, Baikal)	Tungusic				unclear
+SouthernGyeongsang	Southern_Gyeongsang	35.15	128.15	Southern Gyeongsang	Southern Gyeongsang	Koreanic		kyon1247	kor	same as Kyengnam
+SouthernHamgyong	Southern_Hamgyong	39.55	127.32	Southern Hamgyong	Southern Hamgyong	Koreanic		hamg1238	kor	same as Hankyengnamto
+SouthernJeolla	Southern_Jeolla	34.98	126.47	Southern Jeolla	Southern Jeolla	Koreanic		chol1278	kor	same as Cennam
+SouthernPyongan	Southern_Pyongan	39.15	125.51	Southern Pyongan	Southern Pyongan	Koreanic		pyon1239	kor	same as Pyengannamto
+StonyEvenkiPTPodkamennayaTunguska	Evenki_PT	61.59	94.39	Stony Evenki (PT = Podkamennaya Tunguska)	Stony Evenki (PT = Podkamennaya Tunguska)	Tungusic		hiss1234		
+Taketomi				Taketomi		Japonic	Taketomi	take1256	rys	
+Tofa	Tofa	54.16	101.31	Tofa	Tofa	Turkic	Tofa	tofa1248		
+Turkish	Turkish	39.87	32.87	Turkish	Turkish	Turkic	Turkish	nucl1301	tur	
+Turkmen	Turkmen	37.09	59.18	Turkmen	Turkmen	Turkic	Turkmen	turk1304	tuk	
+Tuvan	Tuvan	51.7	94.37	Tuvan	Tuvan	Turkic	Tuvan	tuvi1240	tyv	
+Udihe	Udihe	46.63	135.68	Udihe	Udihe	Tungusic	Udihe	udih1248	ude	
+Ulcha	Ulcha	51.85	140.29	Ulcha	Ulcha	Tungusic	Ulcha	ulch1242		
+Uyghur	Uyghur	43.88	87.38	Uyghur	Uyghur	Turkic	Uyghur	uigh1240	uig	
+Uzbek	Uzbek	40.89	69.21	Uzbek	Uzbek	Turkic	Uzbek	uzbe1247	uzb	
+WestYugur	WestYugur	39.05	99.31	WestYugur	WestYugur	Turkic		west2402	ybe	
+Xibe	Xibe	43.59	81	Xibe	Xibe	Tungusic	Xibe	xibe1242	sjo	
+YaeyamaHatoma	Yaeyama_Hatoma	24.17	123.51	Yaeyama Hatoma	Yaeyama Hatoma	Japonic	Hatoma	hato1238	rys	
+YaeyamaIshigaki	Yaeyama_Ishigaki	24.2	124.09	Yaeyama Ishigaki	Yaeyama Ishigaki	Japonic	Ishigaki	ishi1240	rys	
+Yakut	Yakut	61.7	133.98	Yakut	Yakut	Turkic	Yakut	yaku1245	sah	
+Yonaguni	Yonaguni	24.28	123	Yonaguni	Yonaguni	Japonic	Yonaguni	yona1241	yoi	

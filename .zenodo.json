@@ -1,0 +1,24 @@
+{
+    "title": "CLDF dataset derived from Robbeets et al.'s \"Triangulation Supports Agricultural Spread\" from 2021",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Martine Robbeets"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++citation pending +++</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
