@@ -1,60 +1,57 @@
 appdirs==1.4.4
 bs4==0.0.1
-Cartopy==0.19.0.post1
-certifi==2021.5.30
-cldfbench==1.7.2
-cldfcatalog==1.3.2
-cldfviz==0.3.0
-clldutils==3.9.0
-cltoolkit==0.1.1
-colorlog==5.0.1
-csvw==1.11.0
-cycler==0.10.0
-gitdb==4.0.7
-greenlet==1.1.1
-html5lib==1.1
-idna==3.2
+certifi==2021.10.8
+cffi==1.15.0
+-e git+https://github.com/cldf/cldfbench/@90fbdc32d47d5e311260ed7d945ec6762b63899d#egg=cldfbench
+-e git+https://github.com/cldf/cldfcatalog@b351a391db96901d490ee02d25ecf2a3edeaa7c5#egg=cldfcatalog
+-e git+https://github.com/LinguList/clldutils.git@5f5da01075059f1893275a58476c7e52695e99a7#egg=clldutils
+colorama==0.4.4
+colorlog==6.6.0
+-e git+https://github.com/cldf/csvw.git@45584ad63ff3002a9b3a8073607c1847c5cbac58#egg=csvw
+gitdb==4.0.9
+greenlet==1.1.2
+idna==3.3
 iniconfig==1.1.1
-isodate==0.6.0
-kiwisolver==1.3.1
-lingpy==2.6.8
-Markdown==3.3.4
-matplotlib==3.4.3
-nameparser==1.0.6
-networkx==2.6.2
-newick==1.3.0
-numpy==1.21.2
-openpyxl==3.0.7
-packaging==21.0
-pluggy==0.13.1
+isodate==0.6.1
+joblib==1.1.0
+-e git+https://github.com/lingpy/lingpy.git@10de072e80a49cae6cce2e24ec42096f160fe81b#egg=lingpy
+-e git+https://github.com/lingpy/lingrex.git@08e1749eda44bf7f8a445d247156d1e908ecc773#egg=lingrex
+lxml==4.7.1
+Markdown==3.3.6
+networkx==2.6.3
+newick==1.3.2
+numpy==1.21.4
+openpyxl==3.0.9
+packaging==21.3
+pluggy==1.0.0
 purl==1.6
-py==1.10.0
+py==1.11.0
 pybtex==0.24.0
-pycldf==1.23.0
-pyclts==3.1.1
-pyconcepticon==2.8.0
+pycldf==1.24.0
+-e git+https://github.com/cldf-clts/pyclts@c7420d9c59122210422ae249f00a37284cda98c8#egg=pyclts
+-e git+https://lingulist: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@github.com/concepticon/pyconcepticon@c8e57af0c2f4a6eebd0a00054119744c435332f1#egg=pyconcepticon
 pycountry==20.7.3
-pyglottolog==3.6.0
-pylexibank==3.2.0
-pyparsing==2.4.7
-pytest==6.2.4
-regex==2021.8.3
+-e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
+-e git+https://github.com/lexibank/pylexibank.git@38010831d165ccf8e1f5d45a5b18562d915635f5#egg=pylexibank
+pytest==6.2.5
+regex==2021.11.10
 requests==2.26.0
 rfc3986==1.5.0
-scipy==1.7.1
+scipy==1.7.3
 segments==2.2.0
-Shapely==1.7.1
+-e git+https://github.com/LinguList/chinese.git@b6b6372dbf08dc15cc6e58ea9f8ab25975b6e5c7#egg=sinopy
 six==1.16.0
-smmap==4.0.0
-soupsieve==2.2.1
-SQLAlchemy==1.4.22
+smmap==5.0.0
+soupsieve==2.3.1
+SQLAlchemy==1.4.28
 tabulate==0.8.9
 termcolor==1.1.0
-tqdm==4.62.1
-Unidecode==1.2.0
-uritemplate==3.0.1
-urllib3==1.26.6
-webencodings==0.5.1
+threadpoolctl==3.0.0
+tqdm==4.62.3
+typing_extensions==4.0.1
+uritemplate==4.1.1
+urllib3==1.26.7
+wcwidth==0.2.5
 xlrd==2.0.1
-yattag==1.14.0
 zenodoclient==0.4.1
+zipp==3.6.0

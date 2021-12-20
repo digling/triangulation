@@ -116,7 +116,8 @@ class Dataset(BaseDataset):
                             Language_ID=lid,
                             Parameter_ID=concepts[concept],
                             Value=entry,
-                            Cognacy=str(i+1)
+                            Cognacy=str(i+1),
+                            Loan=True if entry.endswith(" bor") else False
                             ):
                         args.writer.add_cognate(
                                 lexeme=lex,
