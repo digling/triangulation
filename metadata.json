@@ -1,6 +1,5 @@
 {
     "title": "CLDF dataset derived from Robbeets et al.'s \"Triangulation Supports Agricultural Spread\" from 2021",
-    "url": "",
     "license": "CC-BY-4.0",
-    "citation": "+++citation pending +++"
+    "citation": "Robbeets, M. et al. (2021): Triangulation supports agricultural spread of the Transeurasian languages. Nature. https://doi.org/10.1038/s41586-021-04108-8"
 }
