@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > +++citation pending +++
+  > Robbeets, M. et al. (2021): Triangulation supports agricultural spread of the Transeurasian languages. Nature. https://doi.org/10.1038/s41586-021-04108-8
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
